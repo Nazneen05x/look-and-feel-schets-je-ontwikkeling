@@ -1,7 +1,7 @@
 
 # ✨ Look and feel - Schets je ontwikkeling ✨
 
-# Ik ben op weg om een Front-Ender te worden.🛤️📚💻
+# 🛤️Ik ben op weg om een Front-Ender te worden.📚💻
 <ul>
 <li><strong>Weg:</strong> De juiste (ups en downs) pad richting Front-Ender.</li>
 <li><strong>Boeken:</strong> kennis op doen om een Front-Ender te worden.</li> 
